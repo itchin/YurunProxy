@@ -76,7 +76,7 @@ class ServerParser
 		}
 		else
 		{
-			$response->end('area you ok?');
+			$response->end('are you ok?');
 		}
 	}
 
