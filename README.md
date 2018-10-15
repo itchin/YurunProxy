@@ -29,7 +29,7 @@
 
 ### 客户端
 
-在开发机上配置 `config/config.php` 文件
+在开发机上配置 `config/client.php` 文件
 
 `server` 是客户端连接服务器的端口设置。
 
